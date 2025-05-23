@@ -2,18 +2,8 @@
     color: #7d4541;
     font-size: 80px;
     margin: 200px;
-    font-family:Arial, Helvetica, sans-serif
+    font-family: Helvetica, sans-serif
 }
-
-.ultra-regular {
-  font-family: "Ultra", serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 80px;
-  color: #7d4541;
-  margin: 200px;
-}
-
 
 body {
     background-color:#74A662;
