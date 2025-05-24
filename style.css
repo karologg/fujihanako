@@ -1,10 +1,37 @@
 .arrumadinho {
     color: #7d4541;
     font-size: 80px;
-    margin: 200px;
-    font-family: Monaco, monospace;
+    margin: 120px;
+    font-family: "Lucida Console", monospace;
+}
+
+button {
+  background-color: #74a662;
+  border-radius: 10px;
+  margin: 100px;
+  border: 1px solid #74a662;
+  font-family: "Lucida Console", monospace;
+}
+
+button:hover {
+  border-color: #74a662;
+  background-color: #39572e;
+  color: pink;
+}
+
+.link {
+  color: #39572e;
+}
+
+.link:hover {
+  color: #74a662;
+}
+
+p {
+  margin: 80px;
+  text-align: justified;
 }
 
 body {
-    background-color:#74A662;
+  background-color: #74a662;
 }
